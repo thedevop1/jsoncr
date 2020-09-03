@@ -1,5 +1,5 @@
 # JSONCR
-[![PkgGoDev](https://pkg.go.dev/badge/thedevop1/jsoncr)](https://pkg.go.dev/thedevop1/jsoncr)   
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/thedevop1/jsoncr)](https://pkg.go.dev/github.com/thedevop1/jsoncr) 
 
 JSONCR is a Go package that provides method to remove comments and indentations in JSON. Both block and line comments are supported. Common use is to process the JSON config file.
 
